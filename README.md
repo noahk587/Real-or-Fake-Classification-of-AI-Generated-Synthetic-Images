@@ -1,1 +1,1 @@
-# Real or Fake: Classification of AI-Generated Synthetic Images
+# Real or Fake: Classification of AI Generated Synthetic Images
