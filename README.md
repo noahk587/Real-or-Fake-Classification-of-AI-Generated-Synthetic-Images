@@ -3,6 +3,10 @@
 ## Dataset Source:
 Our dataset was obtained from Kaggle via the link below:  
 https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
+
+## Models Used
+We developed a VGG16, ResNet, and EfficientNet model for AI Image Classification. For the VGG16 model, in the training loop, the accuracy values are precentages.
+
 ### Reference:
 Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny
 images  
