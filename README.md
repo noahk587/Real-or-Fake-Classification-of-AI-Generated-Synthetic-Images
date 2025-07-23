@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-
 ## Models Used
 We developed a VGG16, ResNet, and EfficientNet model for AI Image Classification. For the VGG16 model, in the training loop, the accuracy values are precentages.
 
-### Reference:
+## Reference:
 Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny
 images  
 J. J. Bird and A. Lotfi, "CIFAKE: Image Classification and Explainable Identification
